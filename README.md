@@ -1,6 +1,6 @@
-## 👋 Hi, I’m Orlando Pardini Gardezani, a student at the Federal University of São Paulo, currently pursuing a Bachelor's degree in Chemical Engineering. 
+## 👋 Chemical Engineer with a strong technical and analytical background from the Federal University of São Paulo. Experienced in programming, automation, and process optimization. My specialization lies in the domain of neural networks, data science, and machine learning. 
 
-Chemical Engineer with a strong technical and analytical background from the Federal University of São Paulo. Experienced in programming, automation, and process optimization. Skilled in contributing to financial projects, data analysis, and developing technological solutions for complex problems. 😉.
+I am currently pursuing a stricto sensu Master's degree in Chemical Engineering, an MBA in Information Technology Management, and a specialization in Machine Learning Engineering.
 
 - 🌱 ALWAYS learning and improving...
 
@@ -17,10 +17,10 @@ Experience & Achievements 📖: <br/>
 Skills & Proficiencies 📜: <br/>
 
   - Programming Languages: Python, SQL, VBA, C, R, Fortran, Java and Pearl. <br/>
+  - Another abilities: Spark, Flask, APIs, Scraping and Crawling. <br/>
   - Software: Excel, MATLAB, ASPEN, Surfer, CAD, Scilab and Microsoft Office. <br/>
   - Technologies: Machine Learning and Artificial Intelligence. <br/>
   - Data Analysis: Proficient in data analysis and interpretation. <br/>
-  - Soft Skills: Communication, Leadership, Initiative. <br/>
 
 
 <div style="display: inline_block"><br>
