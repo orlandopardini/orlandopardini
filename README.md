@@ -1,4 +1,4 @@
-## Data Scientist and Chemical Engineer with a strong technical and analytical background from the Federal University of São Paulo. 
+## Data Scientist and Chemical Engineer from the Federal University of São Paulo. 
 
 Experienced in programming, automation, and process optimization. My specialization lies in the domain of neural networks, data science, and machine learning. I am currently pursuing a stricto sensu Master's degree in Chemical Engineering, an MBA in Information Technology Management, and a specialization in Machine Learning Engineering.
 
