@@ -8,7 +8,7 @@ Experienced in programming, automation, and process optimization. My specializat
 
 Experience & Achievements 📖: <br/>
 
-  - Experience in the financial market, in the management of investment funds, products and economics. <br/>
+  - Experience in the financial market, in the management of investment funds, products, economics and engineering. <br/>
   - Undertaken university projects involving neural networks, data analysis, and data manipulation. <br/>
   - Have national and international articles in the process of being published. <br/> 
   - Served as the head teaching assistant for Thermodynamics, Reactors, Transport Phenomena, and Calculus. <br/>
@@ -16,11 +16,11 @@ Experience & Achievements 📖: <br/>
   
 Skills & Proficiencies 📜: <br/>
 
-  - Programming Languages: Python, SQL, VBA, C, R, Fortran, Java and Pearl. <br/>
-  - Another abilities: Spark, Flask, APIs, Scraping and Crawling. <br/>
-  - Software: Excel, MATLAB, ASPEN, Surfer, CAD, Scilab and Microsoft Office. <br/>
-  - Technologies: Machine Learning and Artificial Intelligence. <br/>
-  - Data Analysis: Proficient in data analysis and interpretation. <br/>
+  - Programming Languages: Python, SQL, VBA, C, R, JavaScript, Fortran, Java and Pearl. <br/>
+  - Another abilities: HTML, CSS, Spark, Flask, APIs, Scraping and Crawling. <br/>
+  - Software: Excel, MATLAB, ASPEN, Surfer, CAD, Scilab, QGIS and Microsoft Office. <br/>
+  - Technologies: Machine Learning, Artificial Intelligence and Deep Learning. <br/>
+  - Data Analysis: Proficient in data analysis and interpretation with Tableau, Python and Power BI. <br/>
 
 
 <div style="display: inline_block"><br>
@@ -31,7 +31,13 @@ Skills & Proficiencies 📜: <br/>
   <img align="center" alt="Orlando-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Orlando-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
   <img align="center" alt="Orlando-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Orlando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Orlando-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Orlando-Spark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg">
+  <img align="center" alt="Orlando-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Orlando-Hadoop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg">
+          
+          
 </div>
 <br/>
 <div> 
