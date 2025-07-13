@@ -12,8 +12,6 @@ Data Scientist and Chemical Engineer with a strong foundation in Machine Learnin
 
 ## 🌱 Always learning, always improving.
 
----
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Orlando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Orlando-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
