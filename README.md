@@ -1,4 +1,4 @@
-Data Scientist and Chemical Engineer with a strong foundation in machine learning, neural networks, and AI engineering. Experienced in predictive modeling for profit optimization, asset management, water network efficiency, and deep learning applications. Currently pursuing an M.Sc. in Chemical Engineering, an MBA in IT Management, and a postgraduate certification in Machine Learning Engineering.
+Data Scientist and Chemical Engineer with a strong foundation in Machine Learning, Deep Learning architectures and LLMs. Experienced in predictive modeling for profit optimization, asset management, water network efficiency, and deep learning applications. Currently pursuing an M.Sc. in AI and Chemical Engineering, an MBA in IT Management, and a postgraduate certification in Machine Learning Engineering.
 
 ## Technical Skills
 
