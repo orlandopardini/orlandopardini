@@ -1,6 +1,4 @@
 # Orlando Pardini Gardezani
-📍 São Paulo, SP – Brazil 
----
 
 Data Scientist and Chemical Engineer with a strong foundation in machine learning, neural networks, and AI engineering. Experienced in predictive modeling for profit optimization, asset management, water network efficiency, and deep learning applications. Currently pursuing an M.Sc. in Chemical Engineering, an MBA in IT Management, and a postgraduate certification in Machine Learning Engineering.
 
@@ -9,7 +7,7 @@ Data Scientist and Chemical Engineer with a strong foundation in machine learnin
 ## Education
 
 **Universidade Federal de São Paulo (UNIFESP)** – B.Sc. Chemical Engineering *(2019–2024)*  
-**UNIFESP** – M.Sc. Chemical Engineering *(Expected 2025)*  
+**UNIFESP** – M.Sc. Chemical Engineering *(2025)*  
 **FIAP** – Postgraduate Certificate, Machine Learning Engineering *(2025)*  
 **USP/ESALQ** – MBA in Data Science & Analytics *(2025)*  
 **CEGEP** – Technical Degree in Computer Science and Business *(2013–2015)*
