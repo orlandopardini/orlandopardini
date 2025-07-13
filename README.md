@@ -54,7 +54,7 @@ Data Scientist and Chemical Engineer with a strong foundation in machine learnin
 ## IMPORTANT REPOSITORY: <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandopardini&repo=Neural_Network_1&theme=radical&langs_count=true)](https://github.com/orlandopardini/Neural_Network_1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandopardini&repo=Neural_Network_2&theme=radical&langs_count=true)](https://github.com/orlandopardini/Neural_Network_2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandopardini&repo=Projeto_Derivadas&theme=radical&langs_count=true&hide=)](https://github.com/orlandopardini/Machine_Learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandopardini&repo=Machine_Learning&theme=radical&langs_count=true&hide=)](https://github.com/orlandopardini/Machine_Learning)
 
 
 
