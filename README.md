@@ -2,17 +2,6 @@
 
 Data Scientist and Chemical Engineer with a strong foundation in machine learning, neural networks, and AI engineering. Experienced in predictive modeling for profit optimization, asset management, water network efficiency, and deep learning applications. Currently pursuing an M.Sc. in Chemical Engineering, an MBA in IT Management, and a postgraduate certification in Machine Learning Engineering.
 
----
-
-## Education
-
-**Universidade Federal de São Paulo (UNIFESP)** – B.Sc. Chemical Engineering *(2019–2024)*  
-**UNIFESP** – M.Sc. Chemical Engineering *(2025)*  
-**FIAP** – Postgraduate Certificate, Machine Learning Engineering *(2025)*  
-**USP/ESALQ** – MBA in Data Science & Analytics *(2025)*  
-**CEGEP** – Technical Degree in Computer Science and Business *(2013–2015)*
-
-
 ## Technical Skills
 
 **Languages:** Python, SQL, VBA, R, C, C++, JavaScript, HTML/CSS, MATLAB  
@@ -23,11 +12,9 @@ Data Scientist and Chemical Engineer with a strong foundation in machine learnin
 **Methodologies:** Agile, Scrum, BPM, Process Automation  
 **Languages:** English (advanced), German (basic), Japanese (basic)  
 
----
-
 ## 🌱 Always learning, always improving.
 
-
+---
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Orlando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -52,8 +39,7 @@ Data Scientist and Chemical Engineer with a strong foundation in machine learnin
 </div><br/>
 
 ## IMPORTANT REPOSITORY: <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandopardini&repo=Neural_Network_1&theme=radical&langs_count=true)](https://github.com/orlandopardini/Neural_Network_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandopardini&repo=Neural_Network_2&theme=radical&langs_count=true)](https://github.com/orlandopardini/Neural_Network_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandopardini&repo=Controle_de_Processos&theme=radical&langs_count=true)](https://github.com/orlandopardini/Controle_de_Processos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=orlandopardini&repo=Machine_Learning&theme=radical&langs_count=true&hide=)](https://github.com/orlandopardini/Machine_Learning)
 
 
