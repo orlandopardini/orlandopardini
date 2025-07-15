@@ -3,12 +3,12 @@ Data Scientist and Chemical Engineer with a strong foundation in Machine Learnin
 ## Technical Skills
 
 **Languages:** Python, SQL, VBA, R, C, C++, JavaScript, HTML/CSS, MATLAB  
-**AI/ML:** Deep Learning, Neural Networks, LLMs, NLP, Computer Vision, Fuzzy Logic  
-**Frameworks:** PyTorch, TensorFlow, Scikit-learn  
+**AI/ML:** Deep Learning, Neural Networks, LLMs, NLP, Computer Vision, Fuzzy Logic
+**Languages:** English (advanced), German (basic), Japanese (basic)
 **Tools:** Power BI, Tableau, Excel, Streamlit, Bizagi, ASPEN, QGIS  
 **Cloud & DevOps:** AWS (Glue, Lambda, Athena), Docker, Spark, Flask, n8n  
 **Methodologies:** Agile, Scrum, BPM, Process Automation  
-**Languages:** English (advanced), German (basic), Japanese (basic)  
+**Other:** PyTorch, TensorFlow, Scikit-learn  
 
 ## 🌱 Always learning, always improving.
 
