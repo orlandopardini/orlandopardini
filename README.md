@@ -1,10 +1,10 @@
-Data Scientist and Chemical Engineer with a strong foundation in Machine Learning, Deep Learning architectures and LLMs. Experienced in predictive modeling for profit optimization, asset management, water network efficiency, and deep learning applications. Currently pursuing an M.Sc. in AI and Chemical Engineering, an MBA in IT Management, and a postgraduate certification in Machine Learning Engineering.
+Data Scientist and Chemical Engineer with a strong foundation in Machine Learning, Deep Learning architectures and LLMs. Experienced in predictive modeling for profit optimization, asset management, water network efficiency, and deep learning applications. Currently Data Scientist and Artificial Intelligence Engineer with a strong background in Mathematics, Statistics, and Programming, specializing in Machine Learning, Deep Learning, Computer Vision, and Generative Techniques for developing predictive artificial intelligence models aimed at profit optimization and loss management. Passionate about studying the Mathematics, Calculus, and Statistics that underpin AI models as a whole. Experienced in financial prediction of assets and derivatives, credit control, hydraulic modeling of supply networks, and water leak detection. Proficient in working with advanced architectures and large-scale language models (LLMs) to solve complex problems. Seeks to apply expertise in data analysis and technological solutions to generate high-impact results.
 
 ## Technical Skills
 
-**Languages:** Python, SQL, VBA, R, C, C++, JavaScript, HTML/CSS, MATLAB  
+**Languages:** Python, SQL, MATLAB, VBA, R, C, C++, JavaScript, HTML/CSS 
 **AI/ML:** Deep Learning, Neural Networks, LLMs, NLP, Computer Vision, Fuzzy Logic
-**Languages:** English (advanced), German (basic), Japanese (basic)
+**Languages:** English (fluent), Portuguese (fluent), German (basic), Japanese (basic)
 **Tools:** Power BI, Tableau, Excel, Streamlit, Bizagi, ASPEN, QGIS  
 **Cloud & DevOps:** AWS (Glue, Lambda, Athena), Docker, Spark, Flask, n8n  
 **Methodologies:** Agile, Scrum, BPM, Process Automation  
